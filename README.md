@@ -105,5 +105,4 @@ cat recovered.txt
 ---
 
 **⚠️ Warning**: Lost passwords = permanently lost files. This tool provides real security that cannot be bypassed.
-```
 
